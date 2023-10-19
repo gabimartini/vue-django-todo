@@ -1,0 +1,10 @@
+.vscode
+venv
+node_modules
+.env
+db.sqlite3
+**/__pycache__/
+**/migrations/
+.DS_Store
+.eslintrc.cjs
+.prettierrc.json
